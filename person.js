@@ -1,2 +1,1 @@
-const people = ['Olivia', 'Aaron']
-
+const people = ['Olivia', 'Aaron', 'Alex']
